@@ -269,6 +269,19 @@ i {
 .container .for6 {
     background-image: url("../img/forum.jpg");
 }
+.fb-page{
+margin-top: 1%;
+       position: absolute;
+    margin-left: 25%;
+    margin-right: 25%;
+    width: 50%;
+}
+.fbcontainer{
+    position: absolute;
+    margin-left: 25%;
+    margin-right: 25%;
+    width: 50%;
+}
 /*http://projektbank.dk/sites/default/files/styles/scale_w_500/public/2018-02/20171031_130023.jpg?itok=Nq45rljw&fbclid=IwAR0mthkg6N_YB8i9dy9UJjYvouKHRp6GCM4zKnEGsc96kAzDkidnoj1fHjY*/
 .container .medborg {
     background-image: url("../img/medborger.jpg");
